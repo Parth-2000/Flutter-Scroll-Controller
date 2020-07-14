@@ -1,6 +1,10 @@
-# flutter_scroll_controller
+# Flutter_Scroll_Controller
 
 A new Flutter project.
+
+## Output:
+
+![output](https://user-images.githubusercontent.com/67038867/87445708-ff6a7080-c615-11ea-8a7b-20865a58e55a.gif)
 
 ## Getting Started
 
